@@ -1,5 +1,5 @@
 {
-    "name": "my-compass-consulting/wp-plugin",
+    "name": "my-compass-consulting/wp-astro-wizard",
     "description": "WordPress Plugin Boilerplate",
     "type": "wordpress-plugin",
     "autoload": {
